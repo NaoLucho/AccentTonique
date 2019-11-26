@@ -28,7 +28,7 @@
 }
 
 .card-body:hover{
-    background-color: #ffc40040;
+    background-color: rgba(255, 196, 0, 0.3);
 }
 
 .content-card a{
@@ -71,7 +71,7 @@ h2.card-title{
     background: rgba(0,0,0,.12);
     border-radius: 30px;*/
     color: #ffc400;
-    text-shadow: 2px 1px 1px #000;
+    text-shadow: 2px 1px 1px #000000;
     font-size: 22px;
 }
 
