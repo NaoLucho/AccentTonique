@@ -89,7 +89,7 @@ h1,
 h2,
 h3,
 h4 {
-    color: #067100;
+    color: #16B60E;
 }
 
 h3 {
@@ -115,11 +115,11 @@ hr {
 
     min-height: 100vh;
     display: flex;
-    background-color: #df1117;
+    /* background-color: #df1117; */
 }
 
 .container {
-    background: #FFC400;
+    /* background: #FFC400; */
     padding: 0px;
     /* width: 100%;
     max-width: 1370px;
@@ -138,7 +138,7 @@ hr {
 
 .page {
     background-color: white;
-    box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 50px 2px rgba(0, 0, 0, 0.2);
 
     margin-left: auto;
     margin-right: auto;
@@ -234,7 +234,7 @@ a {
 
 .Menu .navbar {
     /* background-color: #e0f0ee; */
-    background-color: #067100;
+    background-color: #16B60E;
 }
 
 .Menu .navbar-nav {
@@ -245,7 +245,7 @@ a {
 .Menu .navbar-nav .active>.nav-link {
     background-color: #fff;
     /* border-radius: 5px; */
-    color: #067100;
+    color: #16B60E;
     font-weight: bolder;
 }
 
@@ -275,12 +275,12 @@ a {
 /* décalage du menu de 1px pour éviter de sortir du focus avant d'être sur le sous menu */
 .Menu .dropdown-menu {
     margin-top: -1px;
-    background-color: #067100;
+    background-color: #16B60E;
 }
 
 .Menu .dropdown-menu:hover {
     margin-top: -1px;
-    background-color: #067100;
+    background-color: #16B60E;
 }
 
 .Menu .dropdown-menu .nav-link:hover {
@@ -302,7 +302,7 @@ li.disable>a {
 }
 
 li.disable {
-    background-color: #067100 !important;
+    background-color: #16B60E !important;
 }
 
 .search-container input {
@@ -328,9 +328,18 @@ li.disable {
     width: 100%;
 }
 
+.special_btn {
+    background-color: #FFC400;
+    color: #df1117;
+}
+
+.special_btn:hover {
+    background-color: #16B60E;
+    color: white;
+}
 
 .big_btn {
-    background-color: #067100;
+    background-color: #16B60E;
     color: white;
 }
 

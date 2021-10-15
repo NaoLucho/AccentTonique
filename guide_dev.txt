@@ -9,7 +9,7 @@ Ecur-
 
 CLOUD
 ssh santheq@sshcloud.cluster024.hosting.ovh.net -p 42776
-funga-D
+cloud-D
 
 pwd
 ls
