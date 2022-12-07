@@ -1,25 +1,22 @@
-<div class="d-flex mx-auto mb-4">
-	<a href="/formation-pro" class="">
-		<div class="btn special_btn col">
-			Je découvre ma formation
-		</div>
-	</a>
+<div class="d-flex w-100 flex-column mb-4">
+	<div class="d-flex w-100">
+		<a href="/formation-pro" class="m-auto">
+			<div class="btn special_btn col">
+				Je découvre ma formation
+			</div>
+		</a>
+	</div>
+	<div class="w-100 d-flex  justify-content-around my-4">
+		<a href="#cours-d-espagnol" class="home_btn">
+			<div class="btn big_btn col">
+				Cours d'espagnol
+			</div>
+		</a>
+		<a href="/coaching" class="home_btn">
+			<div class="btn big_btn col">
+				Coaching
+			</div>
+		</a>
+	</div>
 </div>
-<div class="home_title w-100">Accent Tonique vous accompagne et vous motive pour atteindre vos objectifs en :
-</div>
-<div class="w-100 d-flex justify-content-around my-4">
-	<a href="#cours-d-espagnol" class="home_btn">
-		<div class="btn big_btn col">
-			Cours d'espagnol
-		</div>
-	</a>
-	<a href="/coaching" class="home_btn">
-		<div class="btn big_btn col">
-			Coaching
-		</div>
-	</a>
-</div>
-
-{% stylesheets '@SiteBundle/Resources/public/css/home.css' %}
-<link rel="stylesheet" href="{{ asset_url }}"/>
-{% endstylesheets %}
+{% stylesheets '@SiteBundle/Resources/public/css/home.css' %}<link rel="stylesheet" href="{{ asset_url }}"/>{% endstylesheets %}
