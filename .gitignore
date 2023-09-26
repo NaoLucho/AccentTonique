@@ -21,6 +21,5 @@
 /web/site/*
 /web/uploads/media/
 /web/uploads/img/*
-/elasticsearch-6.0.0/
 guide_dev.txt
-.ovhconfig*
+.ovhconfig
