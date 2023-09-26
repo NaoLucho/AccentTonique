@@ -1,12 +1,12 @@
 
 /admin
-admin fungaD-
+admin f-D
 nat T-31
 
 
 CLOUD
 ssh santheq@sshcloud.cluster024.hosting.ovh.net -p 42776
-cloud-D
+c-D
 
 pwd
 ls
