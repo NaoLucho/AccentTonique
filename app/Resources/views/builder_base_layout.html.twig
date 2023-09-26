@@ -39,12 +39,12 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Accent Tonique" />
     <meta property="og:description" content={{ block('seoDescription') }} />
-    <meta property="og:url" content="https://www.cours-espagnol-toulouse-at.com/" />
+    <meta property="og:url" content="https://www.accent-tonique-31.com/" />
     <meta property="og:site_name" content="Accent Tonique" />
     <meta property="og:locale" content="fr_FR" />
-    <meta property="og:image" content="https://www.cours-espagnol-toulouse-at.com/assets/logo_AccentTonique_2019.jpg" />
-    <link rel="alternate" href="https://www.cours-espagnol-toulouse-at.com/" hreflang="fr-fr" />
-    <link rel="alternate" href="https://www.cours-espagnol-toulouse-at.com/" hreflang="x-default" />
+    <meta property="og:image" content="https://www.accent-tonique-31.com/assets/logo_AccentTonique_2023_3.png" />
+    <link rel="alternate" href="https://www.accent-tonique-31.com/" hreflang="fr-fr" />
+    <link rel="alternate" href="https://www.accent-tonique-31.com/" hreflang="x-default" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
     <!-- Optional theme -->
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
@@ -81,35 +81,14 @@
 
 <body class=""> {# body-back #}
      <div class="mx-auto col-sm-11 col-xl-9"> {# container #}
-        <div class="page px-3"> {# page #}
-            {# BLOCK CONNEXION #} {#
-            <div class="row">
-                <div class="col"></div>
-                <div class="col-3 ml-auto ">
-                    {% if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
-                    <a href="{{ path('fos_user_profile_show') }}">Profil {{ app.user.username }}</a>
-                    <a href="{{ path('fos_user_security_logout') }}">
-                        <i class="fas fa-sign-out-alt"></i>
-                    </a>
-                    {% else %}
-                    <a href="{{ path('site_loginpage') }}">Se Connecter</a>
-                    {% endif %}
-                </div>
-            </div> #}
-
+        <div class="page px-3">
             <div class="row m-0">
                 <div class="col-sm-2 p-0 align-self-center">
-                    <a href="/accueil/"><img class="logo_banner" alt="logo Accent Tonique" src="/assets/logo_AccentTonique_2019.jpg"/></a>
+                    <a href="/accueil/"><img class="logo_banner" alt="logo Accent Tonique" src="/assets/logo_AccentTonique_2023_3.png"/></a>
                 </div>
 			    <div class="col-sm-10 p-0">
-                    <img alt="bannière principale d'Accent Tonique" class="image_banner" src="/assets/header.jpg" />
+                    <img alt="bannière principale d'Accent Tonique" class="icone_banner d-flex ml-auto" src="/assets/headerAT2.jpeg" />
                 </div>
-          
-                {# {% block header %}
-                <div id="header" class="jumbotron">
-                    Ici est un header
-                </div>
-                {% endblock %}  #}
             </div>
             {% block menu %}
             <h3>Pages:</h3>
@@ -118,19 +97,9 @@
                     <a href="{{ path('homepage') }}">Accueil</a>
                 </li>
             </ul>
-            {% endblock %} 
-            {# probleme avec les render(controller()), le template tiens compte du flashbag seulement après refresh Il
-            faut donc l'ajouter à chaque fois dans le template appellé par le controlleur (cf. article) #} {# {% if app.request.hasPreviousSession
-            %} {% for type, messages in app.session.flashBag.all %} {% for message in messages %}
-            <div class="mt-4 alert alert-{{ type }}">
-                {{ message|trans({}, 'FOSUserBundle') }}
-            </div>
-            {% endfor %} {% endfor %} {% endif %} #} 
-            
-            {# Apparait seulement si fos_user est appelé #} 
+            {% endblock %}
             {% block fos_user_content %}
             {% endblock %}
-
 
             <div class="row m-0">
                 <div class="body col-lg-9">
@@ -163,32 +132,17 @@
     {# jquery UI #}
     <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 
-    {# bootstrap #} {#
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script> #} {#
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-        crossorigin="anonymous"></script> #}
+    {# bootstrap #}
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 
     {# select2 #}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
 
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js"></script>
-    {# <script>  
-        $(function(){
-            skrollr.init({
-                forceHeight: false
-            });
-        });
-    </script> #}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js"></script>
+
     {% javascripts '@BuilderPageBundle/Resources/public/js/carousel.js' %}
         <script type="text/javascript" src="{{ asset_url }}"></script>
     {% endjavascripts %}
-    {#
-    <script src="{{ asset( template_repo ~ '/assets/js/owl.carousel.js') }}"></script>
-    <script src="{{ asset( template_repo ~ '/assets/js/open.min.js') }}"></script> #} {#
-    <script src="{{ asset('assets/js/chosen_v1.8.2/chosen.jquery.js') }}"></script> #}
 
-    {# Utilisation d'openlayers (map) #}
-    {# <script src="https://openlayers.org/en/v4.6.4/build/ol.js" type="text/javascript"></script> #}
     {% endblock %}
 </html>

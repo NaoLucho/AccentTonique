@@ -1,6 +1,10 @@
+ /* NEW GREEN 2021: #64bfa5 
+OLD: 16B60E*/
+
+
 /* Main Primary color: GREEN */
 .color-primary-0 {
-    color: #16B60E
+    color: #64bfa5
 }
 
 .color-primary-1 {
@@ -89,7 +93,7 @@ h1,
 h2,
 h3,
 h4 {
-    color: #067100;
+    color: #64bfa5;
 }
 
 h3 {
@@ -184,6 +188,10 @@ hr {
 .image_banner {
     width: 100%;
 }
+.icone_banner {
+    max-height: 162px;
+    width: 90%;
+}
 
 .Footer {
     background-color: #222;
@@ -234,7 +242,7 @@ a {
 
 .Menu .navbar {
     /* background-color: #e0f0ee; */
-    background-color: #067100;
+    background-color: #64bfa5;
 }
 
 .Menu .navbar-nav {
@@ -245,7 +253,7 @@ a {
 .Menu .navbar-nav .active>.nav-link {
     background-color: #fff;
     /* border-radius: 5px; */
-    color: #067100;
+    color: #64bfa5;
     font-weight: bolder;
 }
 
@@ -275,12 +283,12 @@ a {
 /* décalage du menu de 1px pour éviter de sortir du focus avant d'être sur le sous menu */
 .Menu .dropdown-menu {
     margin-top: -1px;
-    background-color: #067100;
+    background-color: #64bfa5;
 }
 
 .Menu .dropdown-menu:hover {
     margin-top: -1px;
-    background-color: #067100;
+    background-color: #64bfa5;
 }
 
 .Menu .dropdown-menu .nav-link:hover {
@@ -302,7 +310,7 @@ li.disable>a {
 }
 
 li.disable {
-    background-color: #067100 !important;
+    background-color: #64bfa5 !important;
 }
 
 .search-container input {
@@ -334,12 +342,12 @@ li.disable {
 }
 
 .special_btn:hover {
-    background-color: #067100;
+    background-color: #64bfa5;
     color: white;
 }
 
 .big_btn {
-    background-color: #067100;
+    background-color: #64bfa5;
     color: white;
 }
 

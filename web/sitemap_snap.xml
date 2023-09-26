@@ -1,134 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/accueil/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/cours-espagnol/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/formation-continue/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/formation-pro/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/preparation/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/stages/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/conversation/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/activites-culturelles/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/sorties/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/ateliers/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/voyages/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/enseignement/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/pedagogie/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/les-professeurs/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/coaching/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/infos-pratiques/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/planning/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/contact/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/coaching</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/actu/les-stages-sont-la-inscrivez-vous-des-maintenant</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/actu/13-09-journee-porte-ouverte-inscription-et-test</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/actu/remerciements-fete-de-fin-dannee</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/news/</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cours-espagnol-toulouse-at.com/mentions-legales</loc>
-  <lastmod>2019-10-08T10:20:18+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.accent-tonique-31.com/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/accueil/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/espagnol-formation-pro/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/anglais-formation-pro/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/cours-espagnol/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/cours-anglais/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/cours-enfants/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/stages/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/methodologie-concours-examens/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/preparation/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/coaching-formateurs/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/ateliers-ecriture/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/atelier-chants/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/atelier-conversation/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/sorties/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/voyages/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/enseignement/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/pedagogie/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/les-professeurs/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/notre-histoire/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/acces_handicap/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/planning/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/contact/</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/vide-grenier-a-veillon-juin-2022</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/les-voyages-les-iles-canaries-septembre-22-alquezar-sierra-de-guara-octobre-22</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/festival-cinelatino-du-24-mars-au-2-avril-2023</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/news</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/mentions-legales</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/pedagogie</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/contact</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/le-festival-cinelatino-est-de-retour</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/mise-a-disposition-de-ressources-pedagogiques</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/noel-decouvrez-nous-cartes-cadeaux</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/3-infos-toutes-fraiches</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/nous-sommes-de-retour</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/pendant-le-confinement</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/vacances-dhiver-stages-de-15-h</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/news/?p=1</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/news/?p=2</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/bonne-annee-2020</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/les-stages-sont-la-inscrivez-vous-des-maintenant</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/13-09-journee-porte-ouverte-inscription-et-test</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/remerciements-fete-de-fin-dannee</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/journees-portes-ouvertes-7-et-13-septembre</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/humanitravel-europraid-2019</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
+  <url>
+    <loc>https://www.accent-tonique-31.com/actu/nouveau-site</loc>
+    <lastmod>2023-08-21T13:18:06+00:00</lastmod>
+    <priority>0.51</priority>
+  </url>
 </urlset>

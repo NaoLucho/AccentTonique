@@ -188,6 +188,10 @@ hr {
 .image_banner {
     width: 100%;
 }
+.icone_banner {
+    max-height: 162px;
+    width: 90%;
+}
 
 .Footer {
     background-color: #222;

@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^(?:www\.)?cours-espagnol-toulouse-at\.com [NC]
+  RewriteRule ^/?(.*) https://www.accent-tonique-31.fr/$1 [L,R=301]
+</IfModule>

@@ -20,10 +20,6 @@ DirectoryIndex app.php
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # Rediriger vers le .com
-    RewriteCond %{HTTP_HOST} ^(?:www\.)?accent-tonique-31\.fr [NC]
-    RewriteRule ^/?(.*) https://www.accent-tonique-31.com/$1 [L,R=301]
-
     #Rediriger le http vers https
     RewriteCond %{HTTP:X-Forwarded-Port} 80
     # RewriteCond %{SERVER_PORT} 80
